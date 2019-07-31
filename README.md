@@ -7,6 +7,8 @@
 ![GitHub License](https://img.shields.io/github/license/Puyodead1-Development/SpongeServerBuilder.svg?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Puyodead1-Development/SpongeServerBuilder.svg?style=plastic)
 
+[Downloads](http://ci.puyodead1-development.me/job/SpongeServerBuilder)
+
 ![pic1](https://i.imgur.com/wyEx2bd.png)
 ![pic2](https://i.imgur.com/ttfuhrM.png)
 ![pic3](https://i.imgur.com/4MGNPSz.png)
