@@ -6,6 +6,7 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Puyodead1-Development/SpongeServerBuilder.svg?style=plastic)
 ![GitHub License](https://img.shields.io/github/license/Puyodead1-Development/SpongeServerBuilder.svg?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Puyodead1-Development/SpongeServerBuilder.svg?style=plastic)
+[![Build Status](http://185.230.160.95:8080/buildStatus/icon?style=plastic&job=SpongeServerBuilder)](http://185.230.160.95:8080/job/SpongeServerBuilder/)
 
 [Downloads](http://ci.puyodead1-development.me/job/SpongeServerBuilder)
 
