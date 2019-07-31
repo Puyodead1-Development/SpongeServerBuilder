@@ -1,0 +1,10 @@
+.settings/
+.project
+SpongeServerBuilder-Forge/.settings/
+SpongeServerBuilder-Forge/target/
+SpongeServerBuilder-Forge/.project
+SpongeServerBuilder-Forge/.classpath
+SpongeServerBuilder-Vanilla/.settings
+SpongeServerBuilder-Vanilla/target/
+SpongeServerBuilder-Vanilla/.classpath
+SpongeServerBuilder-Vanilla/.project
