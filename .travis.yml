@@ -16,7 +16,7 @@ deploy:
   file_glob: true
   file:
     - "SpongeServerBuilder-Vanilla/target/*.jar"
-	- "SpongeServerBuilder-Forge/target/*.jar"
+    - "SpongeServerBuilder-Forge/target/*.jar"
   skip_cleanup: true
 
 after_success:
