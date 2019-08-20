@@ -15,8 +15,8 @@ deploy:
   api_key: $GITHUB_TOKEN
   file_glob: true
   file:
-    - "SpongeServerBuilder-Vanilla/target/*.jar"
-    - "SpongeServerBuilder-Forge/target/*.jar"
+    - "SpongeServerBuilder-Vanilla/target/*-dist.jar"
+    - "SpongeServerBuilder-Forge/target/*-dist.jar"
   skip_cleanup: true
 
 after_success:
